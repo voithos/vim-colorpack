@@ -1,13 +1,8 @@
 vim-colorpack
 =============
 
-This is mostly a clone of the [Color Sampler Pack](http://www.vim.org/scripts/script.php?script_id=625)
-from vim.org, but it also contains a few more themes,
-and some bug fixes.
+This is a growing collection of some of my personal favorite colorschemes
+for Vim. The plugin includes adds a `Themes` menu item for graphical Vim
+which can be used to easily modify the currently applied theme.
 
-Some nice themes to try:
-- molokai
-- badwolf
-- wombat
-- zenburn
-- autumn
+Almost all of these were not made by me. Credit goes to the original authors.
