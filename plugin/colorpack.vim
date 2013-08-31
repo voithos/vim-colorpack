@@ -9,7 +9,6 @@ amenu T&hemes.&Dark.CodeSchool              :colorscheme codeschool<CR>
 amenu T&hemes.&Dark.Darkspectrum            :colorscheme darkspectrum<CR>
 amenu T&hemes.&Dark.DarkZ                   :colorscheme darkz<CR>
 amenu T&hemes.&Dark.Desert                  :colorscheme desert<CR>
-amenu T&hemes.&Dark.DesertEx                :colorscheme desertex<CR>
 amenu T&hemes.&Dark.Distinguished           :colorscheme distinguished<CR>
 amenu T&hemes.&Dark.Earendel                :colorscheme earendel<CR>
 amenu T&hemes.&Dark.Fruity                  :colorscheme fruity<CR>
