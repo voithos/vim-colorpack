@@ -14,6 +14,7 @@ anoremenu T&hemes.&Dark.Earendel                :colorscheme earendel<CR>
 anoremenu T&hemes.&Dark.Fruity                  :colorscheme fruity<CR>
 anoremenu T&hemes.&Dark.Gotham                  :colorscheme gotham<CR>
 anoremenu T&hemes.&Dark.Herald                  :colorscheme herald<CR>
+anoremenu T&hemes.&Dark.Heroku                  :colorscheme heroku<CR>
 anoremenu T&hemes.&Dark.Inkpot                  :colorscheme inkpot<CR>
 anoremenu T&hemes.&Dark.Jellybeans              :colorscheme jellybeans<CR>
 anoremenu T&hemes.&Dark.Lucius                  :colorscheme lucius<CR>
